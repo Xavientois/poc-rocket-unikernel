@@ -1,0 +1,12 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+authors = ["Xavientois <joshua.rampersad@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.5.0-rc.1"
+
+[profile.release]
+lto = true
+panic = "abort"

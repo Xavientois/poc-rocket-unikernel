@@ -1,0 +1,7 @@
+{
+    "Files": ["Rocket.toml"],
+    "CloudConfig": {
+      "ProjectID": "josh-rampersad-sandbox",
+      "Zone": "us-east1-b"
+    }
+}
